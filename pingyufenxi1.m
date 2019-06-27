@@ -12,7 +12,7 @@
 num=[0,0,50];
 den=[25,2,1];
 w=logspace(-2,3,100)
-bode(num,den,w)
+%bode(num,den,w)
 rlocus(num,den)
 grid
 title('Bode Diagram of  G(s)=50/(25s^2+2s+1)')
