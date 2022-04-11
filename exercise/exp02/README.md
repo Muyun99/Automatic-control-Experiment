@@ -18,4 +18,8 @@
 G(S)=\frac{\omega_n^2}{s^2+2\xi\omega_ns+\omega_n^2}
 $$ -->
 
-<div align="center"><img style="background: yellow;" src="https://render.githubusercontent.com/render/math?math=G(S)%3D%5Cfrac%7B%5Comega_n%5E2%7D%7Bs%5E2%2B2%5Cxi%5Comega_ns%2B%5Comega_n%5E2%7D%0D"></div>
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=\color{red}\bbox[white]{G(S)=\frac{\omega_n^2}{s^2+2\xi\omega_ns+\omega_n^2}}"></div>
+
+<!-- $e=mc^2$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=e%3Dmc%5E2">
+
+你好

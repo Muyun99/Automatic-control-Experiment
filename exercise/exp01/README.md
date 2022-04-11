@@ -18,7 +18,7 @@
 \frac { C ( s ) } { R ( s ) } = \frac { 5 s ^ { 3 } + 30 s ^ { 2 } + 55 s + 30 } { s ^ { 3 } + 9 s ^ { 2 } + 33 s + 65 }
 $$ -->
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cfrac%20%7B%20C%20(%20s%20)%20%7D%20%7B%20R%20(%20s%20)%20%7D%20%3D%20%5Cfrac%20%7B%205%20s%20%5E%20%7B%203%20%7D%20%2B%2030%20s%20%5E%20%7B%202%20%7D%20%2B%2055%20s%20%2B%2030%20%7D%20%7B%20s%20%5E%20%7B%203%20%7D%20%2B%209%20s%20%5E%20%7B%202%20%7D%20%2B%2033%20s%20%2B%2065%20%7D%0D"></div>
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cbbox%5Bwhite%5D%7B%5Cfrac%20%7B%20C%20(%20s%20)%20%7D%20%7B%20R%20(%20s%20)%20%7D%20%3D%20%5Cfrac%20%7B%205%20s%20%5E%20%7B%203%20%7D%20%2B%2030%20s%20%5E%20%7B%202%20%7D%20%2B%2055%20s%20%2B%2030%20%7D%20%7B%20s%20%5E%20%7B%203%20%7D%20%2B%209%20s%20%5E%20%7B%202%20%7D%20%2B%2033%20s%20%2B%2065%20%7D%0D%7D"></div>
 
 #### code
 
@@ -61,13 +61,13 @@ k =
 G _ { 1 } = \frac { s + 2 } { s ^ { 2 } + 6 s + 10 }
 $$ -->
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=G%20_%20%7B%201%20%7D%20%3D%20%5Cfrac%20%7B%20s%20%2B%202%20%7D%20%7B%20s%20%5E%20%7B%202%20%7D%20%2B%206%20s%20%2B%2010%20%7D%0D"></div>
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cbbox%5Bwhite%5D%7BG%20_%20%7B%201%20%7D%20%3D%20%5Cfrac%20%7B%20s%20%2B%202%20%7D%20%7B%20s%20%5E%20%7B%202%20%7D%20%2B%206%20s%20%2B%2010%20%7D%0D%7D"></div>
 
 <!-- $$
 G _ { 2 } = \frac { s + 1 } { s + 3 }
 $$ -->
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=G%20_%20%7B%202%20%7D%20%3D%20%5Cfrac%20%7B%20s%20%2B%201%20%7D%20%7B%20s%20%2B%203%20%7D%0D"></div>
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cbbox%5Bwhite%5D%7BG%20_%20%7B%202%20%7D%20%3D%20%5Cfrac%20%7B%20s%20%2B%201%20%7D%20%7B%20s%20%2B%203%20%7D%0D%7D"></div>
 
 ![](assert/ques-2.png)
 
@@ -104,7 +104,7 @@ G =
 s ^ { 6 } + 3 s ^ { 5 } + 5 s ^ { 4 } + 9 s ^ { 3 } + 8 s ^ { 2 } + 6 s + 4 = 0
 $$ -->
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=s%20%5E%20%7B%206%20%7D%20%2B%203%20s%20%5E%20%7B%205%20%7D%20%2B%205%20s%20%5E%20%7B%204%20%7D%20%2B%209%20s%20%5E%20%7B%203%20%7D%20%2B%208%20s%20%5E%20%7B%202%20%7D%20%2B%206%20s%20%2B%204%20%3D%200%0D"></div>
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cbbox%5Bwhite%5D%7Bs%20%5E%20%7B%206%20%7D%20%2B%203%20s%20%5E%20%7B%205%20%7D%20%2B%205%20s%20%5E%20%7B%204%20%7D%20%2B%209%20s%20%5E%20%7B%203%20%7D%20%2B%208%20s%20%5E%20%7B%202%20%7D%20%2B%206%20s%20%2B%204%20%3D%200%0D%7D"></div>
 
 #### code
 
