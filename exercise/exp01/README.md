@@ -69,7 +69,7 @@ $$ -->
 
 <div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cbbox%5Bwhite%5D%7BG%20_%20%7B%202%20%7D%20%3D%20%5Cfrac%20%7B%20s%20%2B%201%20%7D%20%7B%20s%20%2B%203%20%7D%0D%7D"></div>
 
-![](assert/ques-2.png)
+![](assets/ques-2.png)
 
 #### code
 
